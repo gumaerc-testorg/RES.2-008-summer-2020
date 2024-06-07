@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-2-008-thermodynamics-and-climate-change-summer-2020/iceberg.jpg
+file_size: 96417
 file_type: image/jpeg
 image_metadata:
   caption: 'When ice melts into liquid water, that phase change entails absorption

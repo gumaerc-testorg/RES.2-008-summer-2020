@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-2-008-thermodynamics-and-climate-change-summer-2020/mitres-2-008su22_coding6.ipynb
+file_size: 96005
 file_type: application/octet-stream
 image_metadata:
   caption: ''
