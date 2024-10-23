@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-2-008-thermodynamics-and-climate-change-summer-2020/mitres-2-008su22_book_new.pdf
+file: /ol-ocw-studio-app/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/mitres-2-008su22_book_new.pdf
 file_size: 6853367
 file_type: application/pdf
 image_metadata:
