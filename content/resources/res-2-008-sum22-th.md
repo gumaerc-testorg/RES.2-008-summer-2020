@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-2-008-thermodynamics-and-climate-change-summer-2020/res-2-008-sum22-th.jpg
+file: /ol-ocw-studio-app/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/res-2-008-sum22-th.jpg
 file_size: 18198
 file_type: image/jpeg
 image_metadata:

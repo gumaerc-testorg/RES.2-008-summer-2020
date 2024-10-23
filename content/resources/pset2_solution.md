@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pset2_solution.ipynb
+file: /ol-ocw-studio-app/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pset2_solution.ipynb
 file_size: 104824
 file_type: application/octet-stream
 image_metadata:
