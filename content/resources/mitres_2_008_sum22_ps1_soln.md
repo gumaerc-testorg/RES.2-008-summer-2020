@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/mitres_2_008_sum22_ps1_soln.pdf
+file: courses/thermodynamics-and-climate-change/mitres_2_008_sum22_ps1_soln.pdf
 file_size: 334966
 file_type: application/pdf
 image_metadata:
