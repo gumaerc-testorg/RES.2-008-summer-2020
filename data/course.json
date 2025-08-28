@@ -52,10 +52,11 @@
     "website": "thermodynamics-and-climate-change"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets with Solutions",
     "Instructor Insights"
   ],
   "site_uid": "281114c0-0626-448c-85c6-4ac182c9d097",
-  "site_short_id": "RES.2-008-summer-2020"
+  "site_short_id": "RES.2-008-summer-2020",
+  "site_url_path": "courses/res-2-008-thermodynamics-and-climate-change-summer-2020"
 }
