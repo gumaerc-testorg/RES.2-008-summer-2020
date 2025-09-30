@@ -20,7 +20,7 @@ Below, Dr. Peter Godart describes various aspects of how he taught the MITES cou
 
 {{< resource uuid="73e7fa61-fb2a-456d-aa10-2bc8cac846ef" >}}
 
-When ice melts into liquid water, that phase change entails absorption of latent heat. (Photo courtesy of [David Stanley](https://www.flickr.com/photos/79721788@N00/16144163456) on Flickr. License: CC BY.)
+When ice melts into liquid water, that phase change entails absorption of latent heat. (Photo courtesy of {{% resource_link "865a1259-937c-488f-af06-a3f6d9560cdd" "David Stanley" %}} on Flickr. License: CC BY.)
 
 **OCW:** Tell us about the role of programming in the course—how the course used coding-based labs to study real-world physical phenomena. Did you find that students came to the course with the skills they needed to implement those simulations? What did they get out of the experience of modeling phenomena this way?
 

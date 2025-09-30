@@ -7,10 +7,10 @@ file_size: 96417
 file_type: image/jpeg
 image_metadata:
   caption: 'When ice melts into liquid water, that phase change entails absorption
-    of latent heat. (Photo courtesy of [David Stanley](https://www.flickr.com/photos/79721788@N00/16144163456)
-    on Flickr. License: CC BY)'
-  credit: 'Photo courtesy of [David Stanley](https://www.flickr.com/photos/79721788@N00/16144163456)
-    on Flickr. License: CC BY'
+    of latent heat. (Photo courtesy of {{% resource_link "865a1259-937c-488f-af06-a3f6d9560cdd"
+    "David Stanley" %}} on Flickr. License: CC BY)'
+  credit: 'Photo courtesy of {{% resource_link "865a1259-937c-488f-af06-a3f6d9560cdd"
+    "David Stanley" %}} on Flickr. License: CC BY'
   image-alt: an iceberg floating in the ocean under a sunny sky
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by/4.0/
