@@ -17,9 +17,9 @@ Proficiency in single-variable calculus and experience with basic programming ar
 
 ## About this Course
 
-This course was offered as part of [MITES Semester](https://mites.mit.edu/discover-mites/mites-semester/) (formerly MOSTEC) in Summer 2022. MITES Semester is a 6-month online program for rising high-school seniors. The program offers students an opportunity to learn about diverse science and engineering fields, strengthen their academic STEM foundation, build 21st-century skills in networking, interviewing, collaboration and presentation delivery, prepare for college, and build a strong community of peers and mentors.
+This course was offered as part of {{% resource_link "5cc00e44-dede-4bff-8d38-8ddddea01954" "MITES Semester" %}} (formerly MOSTEC) in Summer 2022. MITES Semester is a 6-month online program for rising high-school seniors. The program offers students an opportunity to learn about diverse science and engineering fields, strengthen their academic STEM foundation, build 21st-century skills in networking, interviewing, collaboration and presentation delivery, prepare for college, and build a strong community of peers and mentors.
 
-MITES Semester is part of [MIT Introduction to Technology, Engineering, and Science (MITES)](https://mites.mit.edu/), which provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
+MITES Semester is part of {{% resource_link "c6004c6a-4642-43f7-932b-4def5016b6b3" "MIT Introduction to Technology, Engineering, and Science (MITES)" %}}, which provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
 
 ## Course Description
 
