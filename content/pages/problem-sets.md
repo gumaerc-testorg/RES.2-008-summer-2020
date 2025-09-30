@@ -13,10 +13,10 @@ uid: 7b9bf0d6-7458-4030-a9a2-c5d604c7559d
 
 {{% resource_link "156c24a4-145e-45f4-a459-224cf6226667" "Problem Set 2 Solutions (PDF)" %}}
 
-Problem Set 2 Solutions ([view via Jupyter nbviewer](https://nbviewer.org/urls/draft.ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pset2_solution.ipynb)) ({{% resource_link "371b3b9a-e5df-43e5-87b7-d3f813ef64e3" "download ipynb file" %}})
+Problem Set 2 Solutions ({{% resource_link "ce639d1e-bbd6-4f27-856a-1aa6a3e92313" "view via Jupyter nbviewer" %}}) ({{% resource_link "371b3b9a-e5df-43e5-87b7-d3f813ef64e3" "download ipynb file" %}})
 
 {{% resource_link "7d68dc7a-9b9b-4f0f-8e5e-e7e788d32609" "Problem Set 3 (PDF)" %}}
 
 {{% resource_link "c22b6b73-ad79-4ddb-8cd5-24600aa93058" "Problem Set 3 Solutions (PDF)" %}}
 
-Problem Set 3 Solutions ([view via Jupyter nbviewer](https://nbviewer.org/urls/draft.ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/pset3_solution.ipynb)) ({{% resource_link "9fe9bf6b-d0b4-4333-8541-b04ff1f4c8e8" "download ipynb file" %}})
+Problem Set 3 Solutions ({{% resource_link "bd5e627f-4929-4469-ab25-9f98f09cd30e" "view via Jupyter nbviewer" %}}) ({{% resource_link "9fe9bf6b-d0b4-4333-8541-b04ff1f4c8e8" "download ipynb file" %}})
